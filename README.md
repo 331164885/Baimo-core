@@ -6,7 +6,7 @@
 ### 安装扩展包
 
 ```shell
-$ composer require baimo/core -vvv
+$ composer require baimo/core:dev-master
 ```
 
 ### 安装BaimoCMS
